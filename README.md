@@ -13,7 +13,7 @@
 - I say you should be careful cuz you gotta remember they're all squared, and you gotta remember that cotangent and tangent have ( + 1 )
 
 
-- For the sum and difference identities, I really have no tips, your sorta just have to memorize them. You can kinda get away with just know sine and cosine, and just deriving tangent on the test, but thats kinda risky especially if you dont fully understand rules and stuff
+- For the sum and difference identities, I really have no tips, your sorta just have to memorize them. You can kinda get away with just know sine and cosine, and just deriving tangent on the test, but thats kinda risky especially if you dont fully understand rules and stuff.
     ∓ just means it's the opposite sign
     ± means it is the same sign
 
