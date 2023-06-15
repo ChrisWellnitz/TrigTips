@@ -6,7 +6,7 @@
 
 - For pythagorean identities, some kid in my math class came up with a really stupid group of phrases that somehow actually helped me, you just gotta be careful with them
 
-- phrases below
+- phrases:
     "sincos = 1"
     "cot = csc" (pronounced cot = sesc)
     "tan = sec" (pronounced tan = sec)
