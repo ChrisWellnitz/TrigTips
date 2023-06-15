@@ -7,9 +7,9 @@
 - For pythagorean identities, some kid in my math class came up with a really stupid group of phrases that somehow actually helped me, you just gotta be careful with them
 
 - phrases:
-    "sincos = 1"
-    "cot = csc" (pronounced cot = sesc)
-    "tan = sec" (pronounced tan = sec)
+    "sincos = 1" ---
+    "cot = csc" (pronounced cot = sesc) ---
+    "tan = sec" (pronounced tan = sec) ---
 - I say you should be careful cuz you gotta remember they're all squared, and you gotta remember that cotangent and tangent have ( + 1 )
 
 
